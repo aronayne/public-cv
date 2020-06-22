@@ -1,0 +1,299 @@
+|===
+|Name|Phone|Email
+
+|Adrian Ronayne
+|086 0568882
+|adrian.ronayne@gmail.com
+
+|===
+
+==== Introduction
+
+A highly committed individual with a passion for technology and a wealth of experience in a variety of full-stack software engineering and machine learning roles. Communicator of complex topics to multiple stakeholders with varied backgrounds. Excellent ability to grasp emerging technologies with an in-depth knowledge of a wide array of programming languages and frameworks.
+
+==== Key skills
+
+Java, Spring, REST, Python, Scala, Swift, Node.js, Javascript, jQuery, AngularJS, PyTorch, Unit testing, MySql, Docker, Unix, Agile methodology, Machine Learning, Continuous Integration.
+
+==== NUIG MSc Thesis Project: May 2020 - Current
+
+Technologies: Scala, Akka, Play Framework, Jupyter notebook, Python, PyTorch, Docker, MongoDB
+
+The project focus is the application of reinforcement learning techniques to the analysis of cryptocurrency pricing. 
+
+Deliverables:
+
+* Web application based on research findings. 
+
+* MSc thesis research document.
+
+==== Overstock: November 2019 - April 2020
+
+Technologies: Java, Spring Boot, REST, JUnit, Python, Jenkins
+
+Backend developer role supporting Reviews shopping application.
+
+Responsible for:
+
+* Implementation of Spring CRUD API REST services.
+
+* Debugging production issues.
+
+* Supporting the validation of data accuracy for syndicated reviews integration.
+
+* Fraud detection.
+
+* Updating docker containers to Twistlock security compliance.
+
+==== Clinical Support Information Systems (Startup): September 2019
+
+Developer of a rules based system to prevent incorrect treatments being assigned to patients - http://csishealth.com/ 
+
+==== Fidelity Investments Ireland: January 2012 - September 2019
+
+===== Fidelity Center for Applied Technology (FCAT)
+FCAT is responsible for research and development of emerging technologies. My role as a Senior Software Engineer / Senior Data Science Engineer involved collaborating with groups across the firm and partnering with academic institutions. These groups are located globally across multiple continents and includes US, India and China.
+
+Some of the highlights of my role with FCAT include the following projects: 
+
+==== 1. DeepChart
+
+Technologies: Jupyter Notebook, Python, PyTorch, Docker
+
+A project collaboration with the Boston based asset management group. I provided frequent updates to data scientist, research associate and quantitative research lead within asset management. 
+
+Project objectives:
+
+* Determine if a model combined with a curated set of chart images can outperform the Russell 1000 benchmark. 
+
+* Determine if for a given chart image can other similar images be discovered. 
+
+To deliver on these research objectives, I achieved the following:
+
+* Cropping & down-sampling of images.
+
+* Utilized ROC curve to assist in selecting the most viable training data image resolution.
+
+* Implemented CNN model for chart classification.
+
+* Devised method of predicting most likely classification using random sampling and weight initialisation via multiple model iterations. 
+
+* Applying signal based on domain knowledge to reduce noise in data the model achieved 51% - 59% test set classification accuracy.
+
+==== 2. Bonds Like Me
+
+Technologies: Python, Flask, REST 
+
+Allows the portfolio manager to search for bonds of interest. Data files containing bond attributes are read and processed via pandas dataframe.
+
+• Contributed to the implementation of customized K Nearest Neighbour algorithm.
+
+• User can transform input attributes.
+
+• Allows users to select attributes of interest.
+
+• Responsible for the entire rewrite of the initial version of the project.
+
+• Integrated ag-Grid js library with the front end.
+
+• Implemented a simple neural network model from first principles to determine if its description can determine a bond type.
+
+==== 3. Project Sublime 
+
+Technologies: Java 8, Spring, MyBatis, Oracle
+
+A Java Spring application which allows companies to offer a tuition reimbursement benefit to college graduates. I worked with the Sublime team based in Dublin and various US locations in delivering the first release iteration.
+
+* Integration of c360 email service to enable notifications of benefit status.
+* Execution of SQL queries using MyBatis.
+* JUnit testing of c360 mail service.
+* Creation of mock objects for service response testing.
+
+==== 4. Network Decision Making 
+
+Technologies: Xcode, Node.js, jQuery, SocketIO, Swift, MySql, Keras, Amazon Lightsail
+
+I developed a messaging application planned for integrating with existing Fidelity applications. Enables communication within a family where Fidelity advisors can act as intermediaries for difficult conversations.
+
+* Responsible for architecture: context, topology and sequence diagrams.
+
+* Implementation of REST services for message persistence and group management.
+
+* Devised DB schema for messages, users and groups.
+
+* Integration of Xcode SocketIO with backend services for managing the addition of users to channels.
+
+* For this project, I researched various sentiment analysis and question detection techniques and made the following recommendations to product manager: LSTM model instead of NLTK based models for sentiment detection.
+
+* I developed a logistic regression model for question detection using the Quora question dataset.
+
+
+==== 5. Patent Filings
+
+Responsible for design and implementation of algorithms which have been granted filing status with the United States patent office.
+
+Technologies: Jupyter Notebook, Python
+
+===== 5.1 Patent Application - AI Context switcher (2019)
+
+* A method of switching conversation context to increase engagement.
+
+* Suggested and implemented majority vote of multiple neural network models to deliver most likely prediction, impacting directly on filing status.
+
+===== 5.2 Patent Application - Public private data in a zero UI environment (2018)
+
+* Describes a device that listens for pre-configured keywords. The recognised keywords determine if the listening device is activated. 
+
+* I provided the implementation of a feed forward network to distinguish between public and private conversations.
+
+===== 5.3 Patent Application - Training need analysis using data from search engines (2018)
+
+* Describes a neural network model for internal training recommendations.
+
+* Devised a model which learns to recommend training courses based on positive/negative responses.
+
+* Provided linear algebra (using LaTeX) describing in detail from a mathematical perspective how the model generates recommendations.
+
+For each of these patent applications I solely fielded the technical questions and observations from Fidelity patent office and legal teams. This had a direct positive influence on subsequent filing status.
+
+==== 6. Research Publications
+
+I’ve collaborated on two genetic programming research papers in conjunction with the Irish software research centre (Lero) and UCD. 
+The collaboration led to the delivery of two research papers.
+
+===== 6.1 A search for improved performance in regular expressions
+
+Utilizing genetic programming to improve the performance of regular expressions: https://arxiv.org/abs/1704.04119 .
+Accepted to conference: The Genetic and Evolutionary Computation Conference (GECCO)
+
+===== 6.2 Investigating the Evolvability of Web Page Load Time 
+
+A genetic programming approach to improve the page load time of web application: https://arxiv.org/abs/1803.01683 
+Accepted to conference: 21st International Conference on the Applications of Evolutionary Computatio.
+
+==== 7. Fidelity, IDEO, Nasdaq Blockchain collaboration 
+
+Project collaboration to determine the feasibility of storing user identity on a blockchain.  I delivered a presentation to IDEO and Nasdaq stakeholders describing uPort. 
+
+* uPort enables the storing identity of identity on a blockchain. 
+
+* Based on the uPort whitepaper, I suggested a potential use case to allow payments between trusted parties that exist on a blockchain network.
+
+==== 8. User Behavior Mapping POC
+
+The objective is to map user behavior based on areas visited of Fidelity Central. 
+I provided an Apache Spark (Scala) implementation of a nearest neighbours algorithm.
+
+* Mapping of log file data to DTO
+* Generation of euclidean distances between points based on the cartesian product of distances extracted from mapped values.
+
+==== 9. Android Watch application
+
+Technologies: Android, Java8
+
+I developed an Android watch app for monitoring heart rate. 
+
+* On exceeding a heart rate threshold, a signal is registered and sent to an AWS REST service.
+
+* The threshold is a pre-set parameter that determines the likelihood of cardiac arrest.
+
+* Use case is to schedule a portfolio update from volatile to less volatile assets.
+
+==== 10. Fidelity Central: January 2012 – February 2015
+
+An internal portal based web application. 
+
+Role: Senior Software Engineer (Contract)
+
+Technologies: Java, Scala, JUnit, JSP, Spring, Tomcat, jQuery, AngularJS, Maven, Akka, Apache Spark, Jenkins
+
+* Connect Fidelity Central with vendor product SumTotal using Soap Web Services.
+* Service layer implemented using Akka framework.
+* Multi-threaded test to determine latency of web service response times.
+* Conversion of web-sphere projects to Maven. This project led to the development of a Maven plugin to auto resolve dependencies based on library files. Project source code available at: https://github.com/fcdevteam/pomfromjar-maven-plugin
+* Wrote Akka based Java implementation to ping Sharepoint sites at specified intervals to prevent these sites entering sleep mode. Script deployed on and scheduled with Jenkins.
+* Implementation of Jasypt library for credential encryption.
+* Integration of ScalaTest with Fidelity Central.
+
+==== 11. Scala working group
+
+Member of the Fidelity internal Scala working group. Group delivered a Scala and MongoDB reactive application POC.
+
+* Research and configuration of Scala library ReactiveMongo and MongoDB.
+* Demonstrating difference between core Scala fold versus Play Framework fold functionality.
+* Implementation of Scala Future for summation.
+* Implementation of Akka actor with WebSocket.
+
+==== Intime Media (Startup): August 2010 – December 2011
+
+Role: Software Engineer        Technologies: Java, J2ME, Blackberry API, Tomcat, Servlet.
+
+* Responsible for designing and developing flagship product for BlackBerry platform.
+* Multi-threaded application built using J2ME.
+* Use of design patterns during implementation – Strategy, Singleton
+
+==== Fineos: March 2008 – August 2010
+
+Role: Software Engineer        
+
+Technologies: Java, JUnit, SQL scripting
+
+An enterprise software solution aimed at the insurance & banking sector.
+
+Development using JSP, Java, SQL scripting.
+Bug fixing on various maintenance builds and working with test team.
+SQL scripting – SQL Server, Oracle, DB2, MySql
+
+==== Accenture: May 2007 – March 2008
+
+Role: Software Engineer 
+
+Technologies: Java, JSP, Servlet
+
+Workforce: Solutions
+AEP Reports: Business Intelligence project commissioned by the revenue commissioners to fulfil a large financial reporting requirement utilised by government departments.
+
+* Working alongside department officials defining requirements.
+* Generation of reports using JSP front end with Servlet and SQL backend.
+
+==== S.I.T.A: Oct 2005 – May 2007
+
+Role: Programmer      
+
+Technologies: Java, Swing, JSP, Struts
+
+Revenue Integrity – Rule base system developed to minimise airline revenue loss.
+
+* Implemented jsp tag library for dividing multiple search result pages.
+* Implemented predictive search on Swing based application.
+
+==== Lisk Ireland: Jan 2005 – Oct 2005
+
+Role: Software Engineer 
+
+Technologies: Java, Swing, Servlet, JSP, Parport
+
+An engineering firm providing machine components to automotive industry.
+
+* Solely responsible for the design and implementation of various mini projects:
+* Multi threaded application to generate signals from parallel port, to be used for solenoid testing.
+* Time management application to measure employee productivity.
+
+==== Education and qualifications 
+
+===== MSc, Data Analytics, National University of Ireland Galway: September 2017 – Current
+
+Areas of focus of MSc are Probability, Statistics and Machine Learning.   
+
+===== BSc, GMIT Galway: September 2000 – June 2004
+
+Bachelor of Science in Computing Software Development
+
+===== Coursera
+
+* Functional Programming Principles in Scala (2014)
+* Machine Learning (2015)
+
+==== Hobbies
+I enjoy playing music, particularly acoustic guitar and bodhran. 
+I also enjoy cycle training. 
